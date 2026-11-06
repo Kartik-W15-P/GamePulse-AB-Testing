@@ -4,7 +4,7 @@
 
 An end-to-end product analytics project that evaluates whether moving the first game gate from level 30 to level 40 affects player retention.
 
-**[🚀 View Live Dashboard](YOUR_DEPLOYED_APP_URL)**
+**[🚀 Deployed ](https://gamepulse-ab-testing-gamg4sxabtocjpqwh6ev67.streamlit.app/)**
 
 ## Key Findings
 
